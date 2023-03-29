@@ -2,15 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://boxbot6.github.io/calculator-icon-windows-v1.0/</loc>
+    <loc>https://github.com/boxbot6/image-indexing-links-repo-v1.0</loc>
     <image:image>
-      <image:loc>https://boxbot6.github.io/calculator-icon-windows-v1.0/calculator_icon_windows_1.0-example.png</image:loc>
+      <image:loc>https://github.com/boxbot6/image-indexing-links-repo-v1.0/calculator_icon_windows_1.0-example.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://boxbot6.github.io/calculator-icon-windows-v1.0/images/calculator_icon_windows_1.0-example-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://boxbot6.github.io/calculator-icon-windows-v1.0/images/calculator_icon_windows_1.0-example-2.png</image:loc>
+      <image:loc>https://github.com/boxbot6/image-indexing-links-repo-v1.0/images/calculator_icon_windows_1.0-example-1.png</image:loc>
     </image:image>
   </url>
 </urlset>
