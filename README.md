@@ -10,8 +10,6 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 ### Image Links:
  
-[https://boxbot6.github.io/calculator-icon-windows-v1.0/calculator_icon_windows_1.0-example.png](https://boxbot6.github.io/calculator-icon-windows-v1.0/calculator_icon_windows_1.0-example.png)
-
 [https://boxbot6.github.io/calculator-icon-windows-v1.0/images/calculator_icon_windows_1.0-example-1.png](https://boxbot6.github.io/calculator-icon-windows-v1.0/images/calculator_icon_windows_1.0-example-1.png)
 
 [https://boxbot6.github.io/calculator-icon-windows-v1.0/images/calculator_icon_windows_1.0-example-2.png](https://boxbot6.github.io/calculator-icon-windows-v1.0/images/calculator_icon_windows_1.0-example-2.png)
