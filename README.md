@@ -32,7 +32,7 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 [1.1b_Horse_Chestnut_Familiar_Trees_By_G._S._Boulger.jpg](https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link)
 
-![Simple website template in the style of a folder](images/simple-website-template-folder-style-v1.0-sample.png)
+![Simple website template in the style of a folder](https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link)
 
 <br>
 
