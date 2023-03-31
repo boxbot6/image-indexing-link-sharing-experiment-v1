@@ -26,13 +26,11 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 [https://drive.google.com/file/d/1QIrl33U2MZkza7m5eszr3m_g7_2K4DPj/view?usp=share_link](https://drive.google.com/file/d/1QIrl33U2MZkza7m5eszr3m_g7_2K4DPj/view?usp=share_link)
 
-![https://drive.google.com/file/d/1smnoKtZ9d0H30Y8se07NaoXIY56zB7UF/view?usp=share_link](https://drive.google.com/file/d/1smnoKtZ9d0H30Y8se07NaoXIY56zB7UF/view?usp=share_link)
+[https://drive.google.com/file/d/1smnoKtZ9d0H30Y8se07NaoXIY56zB7UF/view?usp=share_link](https://drive.google.com/file/d/1smnoKtZ9d0H30Y8se07NaoXIY56zB7UF/view?usp=share_link)
 
 [https://drive.google.com/file/d/1lGLHt3Tq6kupa_c2x57OvOqWwCKeu7bN/view?usp=share_link](https://drive.google.com/file/d/1lGLHt3Tq6kupa_c2x57OvOqWwCKeu7bN/view?usp=share_link)
 
-[1.1b_Horse_Chestnut_Familiar_Trees_By_G._S._Boulger.jpg](https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link)
-
-![Simple website template in the style of a folder](https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link)
+[https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link](https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link)
 
 <br>
 
