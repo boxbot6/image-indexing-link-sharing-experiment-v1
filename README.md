@@ -34,6 +34,22 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 <br>
 
+## old-scientific-illustration-font-v1.0
+
+### Site Link:
+
+[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/)
+
+### Image Links:
+ 
+[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example.png)
+
+[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-plain.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-plain.png)
+
+[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-text.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-text.png)
+
+<br>
+
 <br>
 
 This is basically an experiment to see if linking images helps with getting them to index and show up on google image searches! - I'll report back later.
