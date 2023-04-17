@@ -52,13 +52,21 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 ## Outbound links to the webs most popular websites:
 
-[https://www.google.com/](https://www.google.com/)
-
 https://www.google.com/
 
 https://YouTube.com/
 
+https://Facebook.com/
 
+https://Twitter.com/
+
+https://Wikipedia.org/
+
+https://Reddit.com/
+
+https://Instagram.com/
+
+https://Yahoo.com/
 
 
 <br>
