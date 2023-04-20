@@ -2,7 +2,7 @@
 
 This repository is for sharing links to the images on my other websites - hopefully making them index better on the google search engine and easier to find. Feel free to  utilize, adapt and share it and them as you wish.
 
-## calculator-icon-windows-v1.0
+## calculator-icon-windows-v1
 
 ### Site Link:
 
