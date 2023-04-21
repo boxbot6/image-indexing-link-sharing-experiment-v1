@@ -48,19 +48,19 @@ https://lh4.googleusercontent.com/uYRSVcKSjEC4J1H3rq6-FXD2XCYpLMl4vVYN_kLRBtdShO
 
 <br>
 
-## old-scientific-illustration-font-v1.0
+## old-scientific-illustration-font-v1
 
 ### Site Link:
 
-[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/)
+[https://boxbot6.github.io/old-scientific-illustration-font-v1/](https://boxbot6.github.io/old-scientific-illustration-font-v1/)
 
 ### Image Links:
  
-[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example.png)
+[https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example.png](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example.png)
 
-[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-plain.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-plain.png)
+[https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-plain.png](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-plain.png)
 
-[https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-text.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1.0-example-text.png)
+[https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1.0-example-text.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1-example-text.png)
 
 <br>
 
