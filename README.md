@@ -60,7 +60,7 @@ https://lh4.googleusercontent.com/uYRSVcKSjEC4J1H3rq6-FXD2XCYpLMl4vVYN_kLRBtdShO
 
 [https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-plain.png](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-plain.png)
 
-[https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1.0-example-text.png](https://boxbot6.github.io/old-scientific-illustration-font-v1.0/images/old-scientific-illustration-font-v1-example-text.png)
+[https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1.0-example-text.png](https://boxbot6.github.io/old-scientific-illustration-font-v1/images/old-scientific-illustration-font-v1-example-text.png)
 
 <br>
 
