@@ -16,7 +16,7 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 <br>
 
-## familiartreesbygsboulger\ (sites.google)
+## familiartreesbygsboulger (sites.google)
 
 ### Site Link:
 
