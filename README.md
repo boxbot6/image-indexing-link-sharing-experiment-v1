@@ -16,17 +16,17 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 <br>
 
-## familiartreesbygsboulger (sites.google)
+## illustrations-from-familiar-trees-by-g-s-boulger
 
 ### Site Link:
 
-[https://sites.google.com/view/familiartreesbygsboulger/](https://sites.google.com/view/familiartreesbygsboulger/)
+[https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/](https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/)
 
 ### Image Links:
  
-https://lh3.googleusercontent.com/T3L-Il-yVHZNkw01DDD7E7B9ixILFPtwJN0CrJRc-GU_tFra5fKB6aoqGjXTqw60zeEmswvO--q5vMQmfSLNPggm_P2l-VWZ7JMujLkTn1EvF1u9EZHf31olIR-EYgeOMg=w1280
+https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4a-cluster-pine-familiar-trees-by-g-s-boulger.jpg
 
-https://lh4.googleusercontent.com/uYRSVcKSjEC4J1H3rq6-FXD2XCYpLMl4vVYN_kLRBtdShOYSo9O097I8XwW4Bc4e7W4Owb9qzsa11u6dhpjl9um3biNwaXt96tQ1TCDZajrkFr-jDdC0ECUyz2bIpyUgyQ=w1280
+https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4b-cluster-pine-familiar-trees-by-g-s-boulger.jpg
 
 <br>
 
