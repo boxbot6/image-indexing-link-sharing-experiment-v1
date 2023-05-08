@@ -24,9 +24,9 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 ### Image Links:
  
-https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4a-cluster-pine-familiar-trees-by-g-s-boulger.jpg
+[https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4a-cluster-pine-familiar-trees-by-g-s-boulger.jpg](https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4a-cluster-pine-familiar-trees-by-g-s-boulger.jpg)
 
-https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4b-cluster-pine-familiar-trees-by-g-s-boulger.jpg
+[https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4b-cluster-pine-familiar-trees-by-g-s-boulger.jpg](https://boxbot6.github.io/illustrations-from-familiar-trees-by-g-s-boulger/images/1-4b-cluster-pine-familiar-trees-by-g-s-boulger.jpg)
 
 <br>
 
