@@ -76,7 +76,7 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 [https://Wikipedia.org](https://Wikipedia.org)
 
-[ttps://Reddit.com/](ttps://Reddit.com/)
+[https://Reddit.com/](https://Reddit.com/)
 
 [https://Instagram.com/](https://Instagram.com/)
 
