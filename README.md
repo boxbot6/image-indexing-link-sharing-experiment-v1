@@ -16,6 +16,22 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 <br>
 
+## cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series
+
+### Site Link:
+
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)
+
+### Image Links:
+ 
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-3-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-3-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg)
+
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-4-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-4-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg)
+
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-5-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-5-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg)
+
+<br>
+
 ## illustrations-from-familiar-trees-by-g-s-boulger
 
 ### Site Link:
