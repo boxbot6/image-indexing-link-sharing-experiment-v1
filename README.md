@@ -102,3 +102,4 @@ This repository is for sharing links to the images on my other websites - hopefu
 <br>
 
 This is basically an experiment to see if linking images helps with getting them to index and show up on google image searches! - I'll report back later.
+Very preliminary - putting links to images on this page seems to be better than agtually adding the images?
