@@ -90,6 +90,14 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 <br />
 
+## simple-website-template-single-page-v1
+
+### Site Link:
+
+[https://boxbot6.github.io/simple-website-template-single-page-v1/](https://boxbot6.github.io/simple-website-template-single-page-v1/)
+
+<br />
+
 ## Outbound links to the webs most popular websites:
 
 [https://www.google.com/](https://www.google.com/)
