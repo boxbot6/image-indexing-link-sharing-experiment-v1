@@ -2,6 +2,8 @@
 
 This repository is for sharing links to the images on my other websites - hopefully making them index better on the google search engine and easier to find. Feel free to  utilize, adapt and share it and them as you wish.
 
+<br />
+
 ## calculator-icon-windows-v1
 
 ### Site Link:
@@ -9,21 +11,18 @@ This repository is for sharing links to the images on my other websites - hopefu
 [https://boxbot6.github.io/calculator-icon-windows-v1/](https://boxbot6.github.io/calculator-icon-windows-v1/)
 
 ### Image Links:
- 
+
 [https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-1.png](https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-1.png)
 
 [https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-2.png](https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-2.png)
 
 <br />
 
-## calculator-icon-windows-v1 
+## image-indexing-link-sharing-experiment-v1
 
-[https://boxbot6.github.io/calculator-icon-windows-v1/](https://boxbot6.github.io/calculator-icon-windows-v1/)
+### Site Link:
 
-### Image Links:
-
-[https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-1.png](https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-1.png)<br />
-[https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-2.png](https://boxbot6.github.io/calculator-icon-windows-v1/images/calculator-icon-windows-v1-example-2.png)<br />
+[https://github.com/boxbot6/image-indexing-link-sharing-experiment-v1/](https://github.com/boxbot6/image-indexing-link-sharing-experiment-v1/)
 
 <br />
 
@@ -35,7 +34,7 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 ### Image Links:
 
- [https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-3-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-3-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg)
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-3-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-3-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg)
 
 [https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-4-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/images/card-4-godfrey-phillips-cigarette-cards-beautiful-women-w-i-series.jpg)
 
@@ -114,4 +113,6 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 This is basically an experiment to see if linking images helps with getting them to index and show up on google image searches! - I'll report back later.
 
-Very preliminary - putting links to images on this page seems to be better than agtually adding the images?
+Very preliminary - putting links to images on this page seems to be better than agtually adding the images?<br  />
+(The quicker a site loads the better for indexing).
+
