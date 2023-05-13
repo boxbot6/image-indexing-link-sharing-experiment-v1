@@ -2,6 +2,10 @@
 
 This repository is for sharing links to the images on my other websites - hopefully making them index better on the google search engine and easier to find. Feel free to  utilize, adapt and share it and them as you wish.
 
+It is basically an experiment to see if linking images helps with getting them to index and show up on google image searches! - I'll report back later.
+
+Very preliminary - putting links to images on this page seems to index better than the original images on a site? (Probably because the quicker a site loads the more likely it is to be indexed).
+
 <br />
 
 ## image-indexing-link-sharing-experiment-v1
@@ -116,11 +120,4 @@ This repository is for sharing links to the images on my other websites - hopefu
 
 [https://Yahoo.com/](https://Yahoo.com/)
 
-
 <br  />
-
-This is basically an experiment to see if linking images helps with getting them to index and show up on google image searches! - I'll report back later.
-
-Very preliminary - putting links to images on this page seems to work better than adding the images to actual site?<br  />
-(The quicker a site loads the better for indexing).
-
