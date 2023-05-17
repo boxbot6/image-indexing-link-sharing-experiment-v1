@@ -102,6 +102,26 @@ Very preliminary - putting links to images on this page seems to index better th
 
 <br />
 
+## easy-weather-icons-font-v1
+
+### Site Link:
+
+[https://boxbot6.github.io/easy-weather-icons-font-v1/](https://boxbot6.github.io/easy-weather-icons-font-v1/)
+
+### Image Links:
+ 
+[https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-1.png](https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-1.png)
+
+[https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-2.png](https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-2.png)
+
+[https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-3.png](https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-3.png)
+
+[https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-4.png](https://boxbot6.github.io/easy-weather-icons-font-v1/images/easy-weather-icons-font-v1-example-4.png)
+
+[https://boxbot6.github.io/easy-weather-icons-font-v1/images/api-demo-screenshot-example-1.png](https://boxbot6.github.io/easy-weather-icons-font-v1/images/api-demo-screenshot-example-1.png)
+
+<br />
+
 ## Outbound links to the webs most popular websites:
 
 [https://www.google.com/](https://www.google.com/)
