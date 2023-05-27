@@ -60,21 +60,17 @@ Very preliminary - putting links to images on this page seems to index better th
 
 <br />
 
-## familiartreesbygsboulger (google-sites-version)
+## easy-mode-replica-widgets-v1
 
 ### Site Link:
 
-[https://sites.google.com/view/familiartreesbygsboulger/home](https://sites.google.com/view/familiartreesbygsboulger/home)
+[https://boxbot6.github.io/easy-mode-replica-widgets-v1/](https://boxbot6.github.io/easy-mode-replica-widgets-v1/)
 
 ### Image Links:
 
-[https://drive.google.com/file/d/1QIrl33U2MZkza7m5eszr3m_g7_2K4DPj/view?usp=share_link](https://drive.google.com/file/d/1QIrl33U2MZkza7m5eszr3m_g7_2K4DPj/view?usp=share_link)
+[https://boxbot6.github.io/easy-mode-replica-widgets-v1/images/easy-mode-replica-widgets-example-1.png](https://boxbot6.github.io/easy-mode-replica-widgets-v1/images/easy-mode-replica-widgets-example-1.png)
 
-[https://drive.google.com/file/d/1smnoKtZ9d0H30Y8se07NaoXIY56zB7UF/view?usp=share_link](https://drive.google.com/file/d/1smnoKtZ9d0H30Y8se07NaoXIY56zB7UF/view?usp=share_link)
-
-[https://drive.google.com/file/d/1lGLHt3Tq6kupa_c2x57OvOqWwCKeu7bN/view?usp=share_link](https://drive.google.com/file/d/1lGLHt3Tq6kupa_c2x57OvOqWwCKeu7bN/view?usp=share_link)
-
-[https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link](https://drive.google.com/file/d/1SCdWfunCRUFc1NCQZDI814exKWT3wzvg/view?usp=share_link)
+[https://boxbot6.github.io/easy-mode-replica-widgets-v1/images/easy-mode-replica-widgets-example-2.png](https://boxbot6.github.io/easy-mode-replica-widgets-v1/images/easy-mode-replica-widgets-example-2.png)
 
 <br />
 
