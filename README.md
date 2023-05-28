@@ -1,10 +1,10 @@
 # Image Indexing Link Sharing Experiment
 
-This repository is for sharing links to the images on my other websites - hopefully making them index better on the google search engine and easier to find. Feel free to  utilize, adapt and share it and them as you wish.
+This repository is for sharing links to the images on my other websites - hopefully making them index better on the google search engine and easier to find. Feel free to utilize and adapt it as you wish.
 
-It is basically an experiment to see if linking images helps with getting them to index and show up on google image searches! - I'll report back later.
+It's basically an experiment to find out how much linking images helps with getting them to display on google image searches! - I'll report back later.
 
-Very preliminary - putting links to images on this page seems to index better than the original images on a site? (Probably because the quicker a site loads the more likely it is to be indexed).
+Very preliminary - putting links to images on this page seems to index them a little better than the original images from a site? (Probably because this is a very basic page and the quicker a site loads the more likely it is to be indexed).
 
 <br />
 
