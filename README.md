@@ -140,7 +140,7 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 
 <a href="http://--" 
-     onclick=" window.open('https://www.google.com/','https://www.google.com/','width=700,height=700'); 
+     onclick=" window.open('https://www.google.com/' width=700, height=700'); 
                window.open('http://--','','width=700,height=500'); ..// add more"
                >Click Here</a>
 
