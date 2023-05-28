@@ -1,4 +1,4 @@
-# Image Indexing Link Sharing Experiment V1
+# Image Indexing Link Sharing Experiment v1
 
 This repository is for sharing links to the images on my other websites - hopefully making them index better on the google search engine and easier to find. Feel free to utilize and adapt it as you wish.
 
