@@ -122,11 +122,11 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 [https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar/](https://boxbot6.github.io/cigarette-cards-john-player-and-sons-a-nature-calendar/)
 
-[https://boxbot6.github.io/app-template-basic-icon-pack-v1/](https://boxbot6.github.io/app-template-basic-icon-pack-v1/)
+[https://boxbot6.github.io/icon-pack-template-basic/](https://boxbot6.github.io/icon-pack-template-basic/)
+
+[https://boxbot6.github.io/icon-pack-template-full/](https://boxbot6.github.io/icon-pack-template-full/)
 
 [https://boxbot6.github.io/simple-website-templates/](https://boxbot6.github.io/simple-website-templates/)
-
-[https://boxbot6.github.io/icon-pack-template-basic/](https://boxbot6.github.io/icon-pack-template-basic/)
 
 [https://boxbot6.github.io/](https://boxbot6.github.io/)
 
