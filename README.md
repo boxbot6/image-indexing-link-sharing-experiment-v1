@@ -93,15 +93,22 @@ Very preliminary - putting links to images on this page seems to index them a li
 ### Site Link:
 
 [https://github.com/boxbot6/simple-website-templates/](https://github.com/boxbot6/simple-website-templates/)
+
 [https://boxbot6.github.io/simple-website-templates/](https://boxbot6.github.io/simple-website-templates/)
 
-## simple-website-template-single-page-v1
+## website-template-simple-single-page-v1
 
 [https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
+
 [https://boxbot6.github.io/website-template-simple-single-page-v1/](https://boxbot6.github.io/boxbot6/website-template-simple-single-page-v1/)
 
+## website-template-simple-single-page-with-banner-v1
 
-[https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
+[https://github.com/boxbot6/website-template-simple-single-page-with-banner-v1/](https://github.com/boxbot6/website-template-simple-single-page-with-banner-v1/)
+
+[https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/)
+
+
 [https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
 [https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
 
