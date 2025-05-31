@@ -96,47 +96,47 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 [https://boxbot6.github.io/simple-website-templates/](https://boxbot6.github.io/simple-website-templates/)
 
-## website-template-simple-single-page-v1
+### website-template-simple-single-page-v1
 
 [https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
 
 [https://boxbot6.github.io/website-template-simple-single-page-v1/](https://boxbot6.github.io/website-template-simple-single-page-v1/)
 
-## website-template-simple-single-page-with-banner-v1
+### website-template-simple-single-page-with-banner-v1
 
 [https://github.com/boxbot6/website-template-simple-single-page-with-banner-v1/](https://github.com/boxbot6/website-template-simple-single-page-with-banner-v1/)
 
 [https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/)
 
-## simple-website-template-sky-style-v1
+### simple-website-template-sky-style-v1
 
 [https://github.com/boxbot6/simple-website-template-sky-style-v1/](https://github.com/boxbot6/simple-website-template-sky-style-v1/)
 
 [https://boxbot6.github.io/simple-website-template-sky-style-v1/](https://boxbot6.github.io/simple-website-template-sky-style-v1/)
 
-## simple-website-template-folder-style-v1
+### simple-website-template-folder-style-v1
 
 [https://github.com/boxbot6/simple-website-template-folder-style-v1/](https://github.com/boxbot6/simple-website-template-folder-style-v1/)
 
 [https://boxbot6.github.io/simple-website-template-folder-style-v1/](https://boxbot6.github.io/simple-website-template-folder-style-v1/)
 
-## simple-website-template-with-banner-v1
+### simple-website-template-with-banner-v1
 
 [https://github.com/boxbot6/simple-website-template-with-banner-v1/](https://github.com/boxbot6/simple-website-template-with-banner-v1/)
 
 [https://boxbot6.github.io/simple-website-template-with-banner-v1/](https://boxbot6.github.io/simple-website-template-with-banner-v1/)
 
-## simple-website-template-with-banner-v2
+### simple-website-template-with-banner-v2
 
 [https://github.com/boxbot6/simple-website-template-with-banner-v2/](https://github.com/boxbot6/simple-website-template-with-banner-v2/)
 
 [https://boxbot6.github.io/simple-website-template-with-banner-v2/](https://boxbot6.github.io/simple-website-template-with-banner-v2/)
 
-## simple-website-template-with-banner-v3
+### simple-website-template-with-banner-v3
 
 [https://github.com/boxbot6/simple-website-template-with-banner-v3/](https://github.com/boxbot6/simple-website-template-with-banner-v3/)
 
-[https://boxbot6.github.io/simple-website-template-with-banner-v31/](https://boxbot6.github.io/simple-website-template-with-banner-v3/)
+[https://boxbot6.github.io/simple-website-template-with-banner-v3/](https://boxbot6.github.io/simple-website-template-with-banner-v3/)
 
 
 <br />
