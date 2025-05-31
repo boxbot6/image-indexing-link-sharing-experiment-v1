@@ -100,7 +100,7 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 [https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
 
-[https://boxbot6.github.io/website-template-simple-single-page-v1/](https://boxbot6.github.io/boxbot6/website-template-simple-single-page-v1/)
+[https://boxbot6.github.io/website-template-simple-single-page-v1/](https://boxbot6.github.io/website-template-simple-single-page-v1/)
 
 ## website-template-simple-single-page-with-banner-v1
 
@@ -108,9 +108,18 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 [https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/](https://boxbot6.github.io/website-template-simple-single-page-with-banner-v1/)
 
+## simple-website-template-sky-style-v1
 
-[https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
-[https://github.com/boxbot6/website-template-simple-single-page-v1/](https://github.com/boxbot6/website-template-simple-single-page-v1/)
+[https://github.com/boxbot6/simple-website-template-sky-style-v1/](https://github.com/boxbot6/simple-website-template-sky-style-v1/)
+
+[https://boxbot6.github.io/simple-website-template-sky-style-v1/](https://boxbot6.github.io/simple-website-template-sky-style-v1/)
+
+## simple-website-template-folder-style-v1
+
+[https://github.com/boxbot6/simple-website-template-folder-style-v1/](https://github.com/boxbot6/simple-website-template-folder-style-v1/)
+
+[https://boxbot6.github.io/simple-website-template-folder-style-v1/](https://boxbot6.github.io/simple-website-template-folder-style-v1/)
+
 
 <br />
 
