@@ -34,7 +34,7 @@ Very preliminary - putting links to images on this page seems to index them a li
 
 ### Site Link:
 
-[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)
+[https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/](https://boxbot6.github.io/cigarette-cards-godfrey-phillips-ltd-beautiful-women-w-i-series/)
 
 ### Image Links:
 
